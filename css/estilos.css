@@ -5,13 +5,8 @@ and open the template in the editor.
 */
 /* 
     Created on : 02-25-2017, 10:18:15 PM
-    Author     : PabloAntonio
+    Author     : Pablo Hurtado
 */
-/*.logo {
-    padding: 0;
-    margin: 0;
-    width: 200px;
-}*/
 
 .menu {
     height: 150px;
@@ -58,9 +53,13 @@ and open the template in the editor.
 
 .foto_autor {
     width: 120px;
-    padding-top: 10%;;
+    padding-top: 5%;
 }
 
-p {
-    font-size: 10px;
+.flow-text {
+    font-size: 15px;
+}
+
+.foto_box {
+    padding-left: 25%;
 }
