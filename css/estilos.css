@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02-25-2017, 10:18:15 PM
+    Author     : PabloAntonio
+*/
+/*.logo {
+    padding: 0;
+    margin: 0;
+    width: 200px;
+}*/
+
+.menu {
+    height: 150px;
+    padding: 0;
+    margin: 0;
+}
+
+.slogan {
+    height: 60px;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    margin-top: 25px;
+}
+.foto_centro {
+    height: 400px;
+}
+
+.foto_izquierda {
+    height: 400px;
+}
+
+.foto_derecha {
+    height: 400px;
+}
+
+.foto {
+    padding-top: 2%;
+    padding-left: 12%;
+    height: 200px;
+    margin: 0;
+}
+
+.fotoc {
+    width: 450px;
+}
+
+.fotoi {
+    width: 300px;
+    height: 180px;
+}
+
+.foto_autor {
+    width: 120px;
+    padding-top: 10%;;
+}
+
+p {
+    font-size: 10px;
+}
